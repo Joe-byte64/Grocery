@@ -1,2 +1,2 @@
 # Grocery
-Grocery Inventory Data set
+Grocery Inventory dataset
