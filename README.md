@@ -42,25 +42,21 @@ Average Sales Volume *Avg Stock Qty = AVERAGE('Grocery_Inventory new v1'[Stock_Q
 5. Can we predict seasonal demand for different product categories based on sales volume trends?
 6. What are the optimal reorder levels for high-demand products to prevent stockouts?
 
-7. ## Key Findings
-   
+## Key Findings
 1. The average stock quantity ranges from 50.86 to 62.23 (Grains & Pules - Seafood).
 <img width="422" height="182" alt="Screenshot 2026-11-24 041241" src="https://github.com/user-attachments/assets/066cfe9d-94b2-4bc0-a2a3-107846a09425" />
 
 2. Katz, Twitterwire, Meevee, Quart and feed fire contributed most to the product inventory.
-   <img width="427" height="416" alt="Screenshot 2026-11-24 041534" src="https://github.com/user-attachments/assets/e9a58430-5f57-4f17-a8c5-de29a4208bf6" />
+<img width="427" height="416" alt="Screenshot 2026-11-24 041534" src="https://github.com/user-attachments/assets/e9a58430-5f57-4f17-a8c5-de29a4208bf6" />
    
 3. The products with the longest shelf-life are Garlic, Banana, Rice Flour.
-   <img width="447" height="374" alt="Screenshot 2026-11-24 042000" src="https://github.com/user-attachments/assets/4cbf3139-64cd-4717-90cf-13edc331d164" />
+<img width="447" height="374" alt="Screenshot 2026-11-24 042000" src="https://github.com/user-attachments/assets/4cbf3139-64cd-4717-90cf-13edc331d164" />
    
-4. The following products are most likely to run out of stock based on last reorder level.
-   Rice flour, coconut, raw sugar, evaporated milk amongst others.
-   <img width="438" height="205" alt="Screenshot 2026-11-23 005052 - Copy" src="https://github.com/user-attachments/assets/53bd5e48-9987-478a-85ce-2e2924eb557e" />
+4. The following products are most likely to run out of stock based on last reorder level. Rice flour, coconut, raw sugar, evaporated milk amongst others.
+<img width="438" height="205" alt="Screenshot 2026-11-23 005052 - Copy" src="https://github.com/user-attachments/assets/53bd5e48-9987-478a-85ce-2e2924eb557e" />
 
-   
 5. The seasonal demand for different product categories is expected to be between 528 and -259. This indicates that a drop in demand would reduce sale by 259.
-   <img width="460" height="224" alt="Screenshot 2026-11-23 005052 - Copy - Copy" src="https://github.com/user-attachments/assets/e5e7fd3a-8d9a-4b91-ac3e-62613ac122e1" />
-
+<img width="460" height="224" alt="Screenshot 2026-11-23 005052 - Copy - Copy" src="https://github.com/user-attachments/assets/e5e7fd3a-8d9a-4b91-ac3e-62613ac122e1" />
 
 6. The optimal reorder level is 50% of the current reorder level.
 
