@@ -12,6 +12,11 @@ Grocery Inventory dataset
 - [Recommendations](#recommendations).
 - [Conclusion](#conclusion)
 
+## Introduction
+This project described and evaluated the inventory of a grocery store.
+
+## Project Objectives
+This project is intended to provide insights into inventory of a grocery store, as a means to influence future decision-making.
 
 ## Description 
 This project described and evaluated the inventory of a grocery store. it was sourced from kaggle.com. it comprises of 17 fields (columns) and 572 observations (row). it consisted of 5 unanswered questions meant to give data insights for future decision making. 
