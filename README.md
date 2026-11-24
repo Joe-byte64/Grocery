@@ -1,9 +1,9 @@
 # Grocery
 Grocery Inventory dataset
 ## Table of content
--[Introduction](#introduction)
--[Project Objectives](#project-objectives).
--[Description of Dataset](#description-of-dataset).
+- [Introduction](#introduction)
+- [Project Objectives](#project-objectives).
+- [Description of Dataset](#description-of-dataset).
 -[Tools](#tools).
 -[Data Cleaning](#data-cleaning).
 -[KPIs](#kpis).
