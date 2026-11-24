@@ -4,13 +4,13 @@ Grocery Inventory dataset
 - [Introduction](#introduction)
 - [Project Objectives](#project-objectives).
 - [Description of Dataset](#description-of-dataset).
--[Tools](#tools).
--[Data Cleaning](#data-cleaning).
--[KPIs](#kpis).
--[Research Question](research-question).
--[Key Findings](#key-findings)
--[Recommendations](#recommendations).
--[Conclusion](#conclusion)
+- [Tools](#tools).
+- [Data Cleaning](#data-cleaning).
+- [KPIs](#kpis).
+- [Research Question](research-question).
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations).
+- [Conclusion](#conclusion)
 
 
 ## Description 
