@@ -64,7 +64,7 @@ Average Sales Volume *Avg Stock Qty = AVERAGE('Grocery_Inventory new v1'[Stock_Q
 . Reorder quantity should be increased by 50% of the current reorder level.
 
 ## Conclusion
-
+My conclusion is that good stock management helps the business reduce losses, satisfy customers and make more profit.
 
 
 
