@@ -61,7 +61,9 @@ Average Sales Volume *Avg Stock Qty = AVERAGE('Grocery_Inventory new v1'[Stock_Q
 6. The optimal reorder level is 50% of the current reorder level.
 
    ## Recommendations
-1. 
+. Reorder quantity should be increased by 50% of the current reorder level.
+
+Conclusion
 
 
 
